@@ -1,4 +1,4 @@
-package AbstractFactory;
+package Factory;
 
 public class CalculateFactory {
     public Calculate getObject(String type){

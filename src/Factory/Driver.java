@@ -1,4 +1,4 @@
-package AbstractFactory;
+package Factory;
 
 import java.util.Scanner;
 
